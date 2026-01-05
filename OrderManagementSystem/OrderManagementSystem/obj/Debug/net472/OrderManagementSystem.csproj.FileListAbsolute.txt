@@ -1,0 +1,11 @@
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.exe.config
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.Form1.resources
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.Forms.CreateOrderForm.resources
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.Forms.LoginForm.resources
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.csproj.GenerateResource.cache
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.AssemblyInfoInputs.cache
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.AssemblyInfo.cs
+C:\Users\AK17\OneDrive\Desktop\university\ml\OrderManagementSystem\OrderManagementSystem\obj\Debug\net472\OrderManagementSystem.csproj.CoreCompileInputs.cache
